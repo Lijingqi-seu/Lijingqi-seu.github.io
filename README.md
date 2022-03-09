@@ -1,212 +1,39 @@
-## 学习角落
+# 小猴子搬家相关
 
+本文记录小猴子(宠物猫)搬家的各种流程，以便后续查看。
 
-### 管理能力提升
-···
+## 铁路托运
 
-### 开发能力提升
-···
-# 欢迎使用 `Arya` 在线 Markdown 编辑器
+- 缺点：耗时长(高铁无法托运，只能走普通铁路)、噪声较大(亲测货车货厢噪音较大)、不是所有城市都支持铁路托运
+- 优点：便宜、相对更安全
 
-[Arya](https://markdown.lovejade.cn/?utm_source=markdown.lovejade.cn)，是一款基于 `Vue`、`Vditor`，为未来而构建的在线 Markdown 编辑器；轻量且强大：内置粘贴 HTML 自动转换为 Markdown，支持流程图、甘特图、时序图、任务列表，可导出携带样式的图片、PDF、微信公众号特制的 HTML 等等。
+### 1. 咨询中铁快运相关车次和手续
 
----
+- 【车次】不是所有车次都支持宠物托运，需要提前致电咨询中铁快运(电话：{出发地区号}-95572)，一般客服会给你当地中铁快运的具体电话，然后致电咨询始发地至目的地支持宠物托运的车次。
+- 【手续】咨询出发地当地中铁快运，宠物托运所需手续。一般是：动物卫生监督所开具的“动物检疫合格证明”、主人身份证、主人火车票，提前2~3小时到达火车站办理托运。
+- 【注意事项】
+  - 宠物托运需要宠物主人随车同行，不能只托运宠物，且办理检疫合格证明(下文会提到)时携带的身份证需要与随车同行的是同一人。
+  - 部分地区的火车站不接收活物，无法进行宠物托运，例如：北京、上海、苏州等地。咨询中铁快运时需要说清楚出发地和目的地，以便确认是否支持宠物托运。
+  - 尽量避免凌晨到达，凌晨到达的话托运中心只有一个值班人员，领取宠物会有点慢。
 
-## 如何使用
+### 2. 咨询“动物检疫合格证明”办理手续
 
-**微注**：清空目前这份默认文档，即处于可使用态。[Arya](https://markdown.lovejade.cn/?utm_source=markdown.lovejade.cn) 另一大优点在于：编辑内容只会在您本地进行保存，不会上传您的数据至服务器，**绝不窥测用户个人隐私，可放心使用**；Github 源码：[markdown-online-editor](https://github.com/nicejade/markdown-online-editor)，部分功能仍在开发🚧，敬请期待。
+各地办理“动物检疫合格证明”的手续会不太一样，最好是提前致电当地“动物卫生监督所”/“畜牧局”咨询办理手续，并且检疫合格证明有效期一般是3天左右，如果不提前咨询好会影响行程。以下列举我咨询过的城市情况：
 
-默认为[所见即所得](https://hacpai.com/article/1577370404903?utm_source=github.com)模式，可通过 `⌘-⇧-M`（`Ctrl-⇧-M`）进行切换；或通过以下方式：
+- 北京：需要携带疫苗本到宠物医院开具的“免疫证明”，外观为枣红色，内部贴上宠物的疫苗记录，三联和狂犬疫苗都要打全，而且有时间要求(一年内，要求几个月以上我忘了..)；带上宠物和航空箱；确定出发时间和车次；宠物主人身份证；
+- 江苏：需要有“指定”宠物医院进行的“免疫检测证明”（检测费用400元左右、耗时大概半天）；“疫苗本”；带上宠物和航空箱；确定出发时间和车次；宠物主人身份证；
 
-- 所见即所得：`⌘-⌥-7`（`Ctrl-alt-7`）；
-- 即时渲染：`⌘-⌥-8`（`Ctrl-alt-8`）；
-- 分屏渲染：`⌘-⌥-9`（`Ctrl-alt-9`）；
+### 3. 确定车次、办理检疫合格证明
 
-### PPT 预览
+根据咨询好的车次、手续，一般提前一天办理检疫合格证明就可以了
 
-如果您用作 `PPT` 预览（入口在`设置`中），需要注意，这里暂还不能支持各种图表的渲染；您可以使用 `---` 来定义水平方向上幻灯片，用 `--` 来定义垂直幻灯片；更多设定可以参见 [RevealJs 文档](https://github.com/hakimel/reveal.js#table-of-contents)。
+### 4. 托运相关
 
----
+- 带着“动物检疫合格证明”、主人身份证、主人火车票，一般提前2~3小时到达火车站办理托运，可以根据出发时间是否出行高峰来适当调整提前的时间，没有排队的话办理托运还挺快的。
+- 注意航空箱最好垫张宠物尿片、适当的水和粮食、冬天需要注意保暖，可以淘宝搜搜什么保暖航空箱套子之类的，不过小猴子当时因为紧张一路不吃不喝不拉撒一直到家。
+- 上车后可以跟列车员商量能否到货厢探视宠物，取决于货厢和客厢内部是否连通，中间站停车时间等，可以好好商量商量，能否探视基本取决于手握钥匙的列车员~
+- 到站后列车员不允许直接从火车上把宠物带走，需要去火车站的托运中心取走宠物，又增加了耗时。。。到托运中心可以适当督促下工作人员，不然会很久。
 
-## 什么是 Markdown
+先到这，后面再补充吧~
 
-[Markdown](https://nicelinks.site/tags/Markdown/?utm_source=markdown.lovejade.cn) 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号，以最小的输入代价，生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体**、*斜体* 或者[超文本链接](https://vue-cli3.lovejade.cn/explore/)，更棒的是，它还可以：
-
----
-
-### 1. 制作待办事宜 `Todo` 列表
-
-- [x] 🎉 通常 `Markdown` 解析器自带的基本功能；
-- [x] 🍀 支持**流程图**、**甘特图**、**时序图**、**任务列表**；
-- [x] 🏁 支持粘贴 HTML 自动转换为 Markdown；
-- [x] 💃🏻 支持插入原生 Emoji、设置常用表情列表；
-- [x] 🚑 支持编辑内容保存**本地存储**，防止意外丢失；
-- [x] 📝 支持**实时预览**，主窗口大小拖拽，字符计数；
-- [x] 🛠 支持常用快捷键(**Tab**)，及代码块添加复制
-- [x] ✨ 支持**导出**携带样式的 PDF、PNG、JPEG 等；
-- [x] ✨ 升级 Vditor，新增对 `echarts` 图表的支持；
-- [x] 👏 支持检查并格式化 Markdown 语法，使其专业；
-- [x] 🦑 支持五线谱、及[部分站点、视频、音频解析](https://github.com/b3log/vditor/issues/117?utm_source=hacpai.com#issuecomment-526986052)；
-- [x] 🌟 增加对**所见即所得**编辑模式的支持(`⌘-⇧-M`)；
-
----
-
-### 2. 书写一个质能守恒公式[^LaTeX]
-
-$$
-E=mc^2
-$$
-
----
-
-### 3. 高亮一段代码[^code]
-
-```js
-// 给页面里所有的 DOM 元素添加一个 1px 的描边（outline）;
-[].forEach.call($$("*"),function(a){
-  a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16);
-})
-```
-
-### 4. 高效绘制[流程图](https://github.com/knsv/mermaid#flowchart)
-
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
-
-### 5. 高效绘制[序列图](https://github.com/knsv/mermaid#sequence-diagram)
-
-```mermaid
-sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice->John: Hello John, how are you?
-  loop Healthcheck
-      John->John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts <br/>prevail...
-  John-->Alice: Great!
-  John->Bob: How about you?
-  Bob-->John: Jolly good!
-```
-
-### 6. 高效绘制[甘特图](https://github.com/knsv/mermaid#gantt-diagram)
-
-> **甘特图**内在思想简单。基本是一条线条图，横轴表示时间，纵轴表示活动（项目），线条表示在整个期间上计划和实际的活动完成情况。它直观地表明任务计划在什么时候进行，及实际进展与计划要求的对比。
-
-```mermaid
-gantt
-  title 项目开发流程
-  section 项目确定
-    需求分析       :a1, 2019-06-22, 3d
-    可行性报告     :after a1, 5d
-    概念验证       : 5d
-  section 项目实施
-    概要设计      :2019-07-05  , 5d
-    详细设计      :2019-07-08, 10d
-    编码          :2019-07-15, 10d
-    测试          :2019-07-22, 5d
-  section 发布验收
-    发布: 2d
-    验收: 3d
-```
-
-### 7. 支持图表
-
-```echarts
-{
-  "backgroundColor": "#212121",
-  "title": {
-    "text": "「晚晴幽草轩」访问来源",
-    "subtext": "2019 年 6 月份",
-    "x": "center",
-    "textStyle": {
-      "color": "#f2f2f2"
-    }
-  },
-  "tooltip": {
-    "trigger": "item",
-    "formatter": "{a} <br/>{b} : {c} ({d}%)"
-  },
-  "legend": {
-    "orient": "vertical",
-    "left": "left",
-    "data": [
-      "搜索引擎",
-      "直接访问",
-      "推荐",
-      "其他",
-      "社交平台"
-    ],
-    "textStyle": {
-      "color": "#f2f2f2"
-    }
-  },
-  "series": [
-    {
-      "name": "访问来源",
-      "type": "pie",
-      "radius": "55%",
-      "center": [
-        "50%",
-        "60%"
-      ],
-      "data": [
-        {
-          "value": 10440,
-          "name": "搜索引擎",
-          "itemStyle": {
-            "color": "#ef4136"
-          }
-        },
-        {
-          "value": 4770,
-          "name": "直接访问"
-        },
-        {
-          "value": 2430,
-          "name": "推荐"
-        },
-        {
-          "value": 342,
-          "name": "其他"
-        },
-        {
-          "value": 18,
-          "name": "社交平台"
-        }
-      ],
-      "itemStyle": {
-        "emphasis": {
-          "shadowBlur": 10,
-          "shadowOffsetX": 0,
-          "shadowColor": "rgba(0, 0, 0, 0.5)"
-        }
-      }
-    }
-  ]
-}
-```
-
-> **备注**：上述 echarts 图表📈，其数据，须使用严格的 **JSON** 格式；您可使用 JSON.stringify(data)，将对象传换从而得标准数据，即可正常使用。
-
-### 8. 绘制表格
-
-| 作品名称        | 在线地址   |  上线日期  |
-| :--------  | :-----  | :----:  |
-| 倾城之链 | [https://nicelinks.site](https://nicelinks.site/??utm_source=markdown.lovejade.cn) |2017-09-20|
-| 晚晴幽草轩 | [https://jeffjade.com](https://jeffjade.com/??utm_source=markdown.lovejade.cn) |2014-09-20|
-| 静轩之别苑 | [http://quickapp.lovejade.cn](http://quickapp.lovejade.cn/??utm_source=markdown.lovejade.cn) |2019-01-12|
-
-### 9. 更详细语法说明
-
-想要查看更详细的语法说明，可以参考这份 [Markdown 资源列表](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)，涵盖入门至进阶教程，以及资源、平台等信息，能让您对她有更深的认知。
-
-总而言之，不同于其它*所见即所得*的编辑器：你只需使用键盘专注于书写文本内容，就可以生成印刷级的排版格式，省却在键盘和工具栏之间来回切换，调整内容和格式的麻烦。**Markdown 在流畅的书写和印刷级的阅读体验之间找到了平衡。** 目前它已经成为世界上最大的技术分享网站 `GitHub` 和 技术问答网站 `StackOverFlow` 的御用书写格式，而且越发流行，正在在向各行业渗透。
-
-最新更新于 2019.08.21
-
+更新于 2022.03.09
